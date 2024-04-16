@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="18px" height="18px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="241.9372384937239" y1="380.8326359832634" x2="253.6527196652719" y2="392.12970711297055" id="LinearGradient961">
-      <stop id="Stop962" stop-color="#63a103" offset="0" />
-      <stop id="Stop963" stop-color="#8400ff" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="241.9372384937239" y1="380.8326359832634" x2="253.6527196652719" y2="392.12970711297055" id="LinearGradient985">
+      <stop id="Stop986" stop-color="#63a103" offset="0" />
+      <stop id="Stop987" stop-color="#8400ff" offset="1" />
     </linearGradient>
   </defs>
   <g transform="matrix(1 0 0 1 -239 -377 )">
-    <path d="M 248 377  C 253.04 377  257 380.96  257 386  C 257 391.04  253.04 395  248 395  C 242.96 395  239 391.04  239 386  C 239 380.96  242.96 377  248 377  Z " fill-rule="nonzero" fill="url(#LinearGradient961)" stroke="none" />
+    <path d="M 248 377  C 253.04 377  257 380.96  257 386  C 257 391.04  253.04 395  248 395  C 242.96 395  239 391.04  239 386  C 239 380.96  242.96 377  248 377  Z " fill-rule="nonzero" fill="url(#LinearGradient985)" stroke="none" />
   </g>
 </svg>
