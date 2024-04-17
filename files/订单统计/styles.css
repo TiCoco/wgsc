@@ -4493,6 +4493,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:"Arial-BoldMT", "Arial Bold", "Arial", sans-serif;
+  font-weight:700;
+  font-style:normal;
   color:#555555;
   text-align:left;
 }
@@ -4504,6 +4507,9 @@
   width:392px;
   height:31px;
   display:flex;
+  font-family:"Arial-BoldMT", "Arial Bold", "Arial", sans-serif;
+  font-weight:700;
+  font-style:normal;
   color:#555555;
   text-align:left;
 }
@@ -4904,6 +4910,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:"Arial-BoldMT", "Arial Bold", "Arial", sans-serif;
+  font-weight:700;
+  font-style:normal;
   color:#555555;
   text-align:left;
 }
@@ -4915,6 +4924,9 @@
   width:392px;
   height:31px;
   display:flex;
+  font-family:"Arial-BoldMT", "Arial Bold", "Arial", sans-serif;
+  font-weight:700;
+  font-style:normal;
   color:#555555;
   text-align:left;
 }
